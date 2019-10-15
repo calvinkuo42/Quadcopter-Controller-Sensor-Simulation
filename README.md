@@ -4,5 +4,6 @@ The goal of the project was to design a feedback control system to model a quadc
 
 A sensor was then added on top of this model to detect an object in a 2 dimensional coordinate system. The object emmited a noise contaminated signal which was processed by a moving average filter I designed to determine the location of the object.
 
+<img src="images/controlSystem.jpg" width = "700" height="300">
+
 <img src="images/sensor.jpg" width = "600" height="600">
-<img src="images/controlSystem.jpg" width = "600" height="300">
